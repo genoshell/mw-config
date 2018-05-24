@@ -5081,6 +5081,7 @@ $wgConf->settings = array(
 		'maccnycwiki' => "//$wmgUploadHostname/maccnycwiki/3/3f/MACC_Logo.png",
 		'madgendersciencewiki' => "//$wmgUploadHostname/madgendersciencewiki/0/01/Mgsfavicon.png",
 		'masseffectwiki' => "//$wmgUploadHostname/masseffectwiki/6/64/Favicon.ico",
+		'mumkeycinematicuniversewiki' => "//$wmgUploadHostname/mumkeycinematicuniversewiki/a/ad/Unsolved_Mysteries_Logo.png",
 		'nationsglorywiki' => "//$wmgUploadHostname/nationsglorywiki/0/04/NationsGlory.png",
 		'nenawikiwiki' => "//$wmgUploadHostname/nenawikiwiki/f/fa/Nena911orange.ico",
 		'newcolumbiawiki' => "//$wmgUploadHostname/newcolumbiawiki/5/5b/Wiki-favicon.png",
@@ -5170,7 +5171,7 @@ $wgConf->settings = array(
 		'zharkunuwiki' => "//$wmgUploadHostname/zharkunuwiki/4/41/Zharkunu_Logo_-_135.png",
 	),
 	'wgLogo' => array(
-		'default' => "//$wmgUploadHostname/metawiki/3/35/Miraheze_Logo.svg",
+		'default' => "//$wmgUploadHostname/metawikilogo.svg",
 	),
 
 	// TemplateSandbox
